@@ -1,0 +1,327 @@
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* header start */
+.header-bg {
+    background-image: url("../B10A1-Challenge-Begins/assets/Hero-bg.png");
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    width: 100%;
+    
+}
+.banner-greetings {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 60px;
+    text-align: center;
+}
+
+.banner-description {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    text-align: center;
+    width: 1140px;
+    margin: auto;
+    padding: 20px;
+}
+
+.btn-primary {
+    background-color: rgba(13, 19, 33, 1);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 40px;
+    width: 200px;
+}
+
+/* header end */
+
+/* main section start */
+
+
+.section-head {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    text-align: center;
+}
+
+.section-about {
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02); 
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.dev-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+.web{
+    margin-top: 40px;
+}
+
+.web-details {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    text-align: center;
+}
+/* section */
+.section-about{
+    padding: 80px;
+}
+.section-card-1{
+    border-radius: 10px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+}
+.about-1{
+    padding: 5px;
+}
+.heading-1{
+    font-size:14px;
+    width: 200px;
+    line-height: 20px;
+}
+.lorem-1{
+    font-size: 14px;
+    font-weight: 300;
+    width: 400px;
+    line-height: 20px;
+}
+.btn-1{
+    padding: 10px;
+    width: 150px;
+    font-size: 14px;
+}
+.image-1 {
+    display: flex;
+    align-items: center;
+}
+.image-1 img{
+   max-width: 100px;
+}
+
+
+
+.section-card-22{
+    margin-top: 52px;
+    border-radius: 10px;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    background: white;
+}
+.about-2{
+    padding: 5px;
+}
+.heading-2{
+    font-size:14px;
+    width: 200px;
+    line-height: 20px;
+}
+.lorem-2{
+    font-size: 14px;
+    font-weight: 300;
+    width: 400px;
+    line-height: 20px;
+}
+.btn-2{
+    padding: 10px;
+    width: 150px;
+    font-size: 14px;
+}
+.image-2{
+    background: white;
+}
+.section-card-3{
+    margin-top: 52px;
+    border-radius: 10px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+}
+.about-3{
+    padding: 5px;
+}
+.heading-3{
+    font-size:14px;
+    width: 200px;
+    line-height: 20px;
+}
+.lorem-3{
+    font-size: 14px;
+    font-weight: 300;
+    width: 400px;
+    line-height: 20px;
+}
+.btn-3{
+    padding: 10px;
+    width: 150px;
+    font-size: 14px;
+}
+.image-3{
+    background: white;
+}
+
+
+
+
+
+.section-inspiration {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+} 
+.section-head{
+    width: 1150px;
+    margin: auto;
+    padding: 20px;
+}
+
+.programing-hero{
+  width: 1140px;
+  margin: auto;
+}
+
+/* skill details */
+.skills-next{
+    padding-top: 50px;
+}
+.section-title{
+    text-align: center;
+    font-weight: 500;
+}
+.section-description{
+    text-align: center;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+/* skills */
+.skill-description{
+    font-size: 14px;
+    font-weight: 400;
+}
+a {
+    color: black;
+}
+.skills-container{
+    max-width: 1140px;
+    text-align: left;
+    justify-content: space-around;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+.skill-1{
+    background: rgba(235, 235, 235, 1);
+    border-radius: 10px;
+    padding: 40px;
+}
+.skill-2{
+    background: rgb(255,76,30,5%);
+    border-radius: 10px;
+    padding: 40px;
+}
+.skill-3{
+    background: rgb(255,223,0,5%);
+    border-radius: 10px;
+    padding: 40px;
+}
+
+/* terget */
+
+.skill-description{
+    font-size: 14px;
+    font-weight: 400;
+}
+a {
+    color: black;
+}
+.section-card-2{
+    border: 1px solid red;
+    padding: 20px;
+    display: flex;
+    border-radius: 10px;
+ 
+}
+.skills-container-2{
+    border-radius: 10px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+}
+.lorem-3{
+    width: 820px;
+}
+.text1{
+   width: 300px;
+   padding: 20px;
+   border-radius: 10px;
+}
+.btn-primary-2{
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.header-bg-2{
+        background-image: url("../B10A1-Challenge-Begins/assets/handshake.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 30px;
+
+}
+.banner-2{
+    text-align: center;
+    padding: 50px;
+    
+}
+.support-title{
+    color: white;
+}
+.support-description-1{
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.footer-section{
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background: #d9c8c83b;
+    border-radius: 10px;
+}
+.made{
+    font-size: 14px;
+    font-weight: 500px;
+}
+
+
