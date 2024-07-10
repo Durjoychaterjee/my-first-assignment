@@ -7,7 +7,7 @@
 
 /* header start */
 .header-bg {
-    background-image: url("../B10A1-Challenge-Begins/assets/Hero-bg.png");
+    background-image: url("/image/Hero-bg.png");
     display: flex;
     justify-content: center;
     text-align: center;
@@ -112,7 +112,7 @@
     width: 150px;
     font-size: 14px;
 }
-.image-1 {
+.image-11 {
     display: flex;
     align-items: center;
 }
@@ -289,7 +289,7 @@ a {
 }
 
 .header-bg-2{
-        background-image: url("../B10A1-Challenge-Begins/assets/handshake.jpg");
+        background-image: url("/image/handshake.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
